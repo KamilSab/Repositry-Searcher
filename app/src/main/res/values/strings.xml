@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Repository Searcher</string>
+    <string name="user_search_bar_hint">Введите имя пользователя GitHub</string>
+    <string name="search">Поиск</string>
+    <string name="profile">Профиль</string>
+    <string name="search_history">История поиска</string>
+    <string name="favorites">Избранное</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="no_search_history">История поиска пуста</string>
+    <string name="no_favorites">Нет избранных репозиториев</string>
+    <string name="logout">Выйти</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">Email</string>
+    <string name="registration_date">Дата регистрации</string>
+    <string name="repositories_found">Найдено репозиториев: %d</string>
+    <string name="search_date">Дата поиска: %s</string>
+    <string name="download_date">Дата загрузки: %s</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="retry_search">Обновить</string>
+    <string name="no_repositories">Репозитории не найдены</string>
+    <string name="action_menu">Action menu</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="downloads">Загрузки</string>
+    <string name="refresh">Обновить</string>
+    <string name="close">Закрыть</string>
+    <string name="repository_name">Название репозитория</string>
+    <string name="description">Описание</string>
+    <string name="language">Язык</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="username_format">Имя пользователя: %s</string>
+    <string name="email_format">Email: %s</string>
+    <string name="registration_date_format">Дата регистрации: %s</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="light_primary">#FFFFFF</color>
+    <color name="dark_primary">#17181C</color>
+    <color name="dark_on_primary">#FFFFFF</color>
+    <color name="light_on_primary">#000000</color>
+    <color name="dark_background">#050505</color>
+    <color name="light_background">#E1E6E6</color>
+    <color name="red">#FF0600</color>
+</resources>

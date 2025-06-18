@@ -1,0 +1,224 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="32dp"
+            android:height="34dp"
+            android:viewportWidth="192"
+            android:viewportHeight="192">
+
+<!--            <group-->
+<!--                android:scaleX="0.65"-->
+<!--                android:scaleY="0.65"-->
+<!--                android:translateX="33"-->
+<!--                android:translateY="35">-->
+<!--                <path-->
+<!--                    android:fillColor="#6E6C6C"-->
+<!--                    android:pathData="M0 96c0-53.02 42.98-96 96-96h0c53.02 0 96 42.98 96 96v0c0 53.02-42.98 96-96 96h0c-53.02 0-96-42.98-96-96z"/>-->
+<!--            </group>-->
+
+            <group
+                android:name="under_group"
+                android:scaleX="0.8"
+                android:scaleY="0.8"
+                android:pivotX="0"
+                android:pivotY="27.2"
+                android:rotation="0"
+                android:translateX="70"
+                android:translateY="40">
+                <path android:fillColor="#fff" android:pathData="M59.4,0.289H4.6a4.6,4.6 0,0 0,-4.6 4.6v58.45a4.6,4.6 0,0 0,4.6 4.6h54.8a4.6,4.6 0,0 0,4.6 -4.6V4.89a4.6,4.6 0,0 0,-4.6 -4.6Z"/>
+
+                <path android:pathData="M58.118,2.171H5.882a4,4 0,0 0,-4 4v55.886a4,4 0,0 0,4 4h52.236a4,4 0,0 0,4 -4V6.171a4,4 0,0 0,-4 -4Z">
+
+                    <aapt:attr name="android:fillColor">
+
+                        <gradient android:endX="32" android:endY="66.057" android:startX="32" android:startY="2.171" android:type="linear">
+
+                            <item android:color="#FF4C54C5" android:offset="0"/>
+
+                            <item android:color="#FF4E5ADD" android:offset="0.325"/>
+
+                            <item android:color="#FF6B71E3" android:offset="0.65"/>
+
+                            <item android:color="#FF898AD1" android:offset="1"/>
+
+                        </gradient>
+
+                    </aapt:attr>
+
+                </path>
+
+                <path android:fillColor="#fff" android:pathData="M9.183,49.454V11.472a2,2 0,0 1,2 -2h41.633a2,2 0,0 1,2 2v37.982a2,2 0,0 1,-2 2H11.183a2,2 0,0 1,-2 -2Z"/>
+
+            </group>
+
+            <group
+                android:name="middle_group"
+                android:scaleX="0.8"
+                android:scaleY="0.8"
+                android:pivotX="0"
+                android:pivotY="27.2"
+                android:rotation="0"
+                android:translateX="70"
+                android:translateY="40">
+                <path android:fillColor="#fff" android:pathData="M59.4,0.289H4.6a4.6,4.6 0,0 0,-4.6 4.6v58.45a4.6,4.6 0,0 0,4.6 4.6h54.8a4.6,4.6 0,0 0,4.6 -4.6V4.89a4.6,4.6 0,0 0,-4.6 -4.6Z"/>
+
+                <path android:pathData="M58.118,2.171H5.882a4,4 0,0 0,-4 4v55.886a4,4 0,0 0,4 4h52.236a4,4 0,0 0,4 -4V6.171a4,4 0,0 0,-4 -4Z">
+
+                    <aapt:attr name="android:fillColor">
+
+                        <gradient android:endX="32" android:endY="66.057" android:startX="32" android:startY="2.171" android:type="linear">
+
+                            <item android:color="#FF4C54C5" android:offset="0"/>
+
+                            <item android:color="#FF4E5ADD" android:offset="0.325"/>
+
+                            <item android:color="#FF6B71E3" android:offset="0.65"/>
+
+                            <item android:color="#FF898AD1" android:offset="1"/>
+
+                        </gradient>
+
+                    </aapt:attr>
+
+                </path>
+
+                <path android:fillColor="#fff" android:pathData="M9.183,49.454V11.472a2,2 0,0 1,2 -2h41.633a2,2 0,0 1,2 2v37.982a2,2 0,0 1,-2 2H11.183a2,2 0,0 1,-2 -2Z"/>
+
+            </group>
+
+            <group
+                android:name="upper_group"
+                android:scaleX="0.8"
+                android:scaleY="0.8"
+                android:pivotX="0"
+                android:pivotY="27.2"
+                android:rotation="0"
+                android:translateX="70"
+                android:translateY="40">
+                <path android:fillColor="#fff" android:pathData="M59.4,0.289H4.6a4.6,4.6 0,0 0,-4.6 4.6v58.45a4.6,4.6 0,0 0,4.6 4.6h54.8a4.6,4.6 0,0 0,4.6 -4.6V4.89a4.6,4.6 0,0 0,-4.6 -4.6Z"/>
+
+                <path android:pathData="M58.118,2.171H5.882a4,4 0,0 0,-4 4v55.886a4,4 0,0 0,4 4h52.236a4,4 0,0 0,4 -4V6.171a4,4 0,0 0,-4 -4Z">
+
+                    <aapt:attr name="android:fillColor">
+
+                        <gradient android:endX="32" android:endY="66.057" android:startX="32" android:startY="2.171" android:type="linear">
+
+                            <item android:color="#FF4C54C5" android:offset="0"/>
+
+                            <item android:color="#FF4E5ADD" android:offset="0.325"/>
+
+                            <item android:color="#FF6B71E3" android:offset="0.65"/>
+
+                            <item android:color="#FF898AD1" android:offset="1"/>
+
+                        </gradient>
+
+                    </aapt:attr>
+
+                </path>
+
+                <path android:fillColor="#fff" android:pathData="M9.183,49.454V11.472a2,2 0,0 1,2 -2h41.633a2,2 0,0 1,2 2v37.982a2,2 0,0 1,-2 2H11.183a2,2 0,0 1,-2 -2Z"/>
+
+                <group
+                    android:pivotX="0"
+                    android:pivotY="27.2"
+                    android:rotation="0"
+                    android:translateX="16"
+                    android:translateY="20"
+                    >
+                    <path
+                        android:pathData="M11.92 18L8.5 13.08C8.35 13.1 8.13 13.1 7.84 13.1H4.05V18H0.93V1.2h6.91c1.46 0 2.72 0.24 3.8 0.72 1.08 0.48 1.92 1.17 2.5 2.06C14.7 4.88 15 5.94 15 7.18c0 1.26-0.32 2.35-0.94 3.26-0.6 0.91-1.49 1.6-2.64 2.04L15.28 18h-3.36ZM11.85 7.18c0-1.08-0.35-1.9-1.05-2.48-0.7-0.57-1.74-0.86-3.1-0.86H4.05v6.7H7.7c1.36 0 2.4-0.3 3.1-0.87 0.7-0.59 1.05-1.42 1.05-2.5ZM23.7 18.24c-1.3 0-2.55-0.18-3.76-0.55-1.2-0.37-2.16-0.86-2.86-1.47l1.08-2.42c0.69 0.54 1.53 1 2.52 1.34 1 0.34 2.02 0.5 3.02 0.5 1.25 0 2.18-0.2 2.79-0.6 0.62-0.4 0.93-0.92 0.93-1.58 0-0.48-0.17-0.87-0.52-1.17-0.34-0.32-0.77-0.57-1.3-0.75-0.53-0.17-1.25-0.37-2.16-0.6-1.28-0.3-2.32-0.6-3.12-0.9-0.78-0.31-1.46-0.78-2.04-1.42-0.56-0.66-0.84-1.54-0.84-2.64 0-0.93 0.25-1.77 0.74-2.52 0.52-0.77 1.28-1.38 2.28-1.83 1.03-0.45 2.28-0.67 3.75-0.67 1.02 0 2.03 0.13 3.02 0.38 1 0.26 1.85 0.63 2.57 1.1l-0.98 2.43c-0.74-0.43-1.5-0.76-2.3-0.98-0.8-0.23-1.58-0.34-2.34-0.34-1.23 0-2.15 0.21-2.76 0.63-0.59 0.41-0.88 0.96-0.88 1.65 0 0.48 0.16 0.87 0.5 1.18 0.35 0.3 0.8 0.54 1.32 0.72 0.53 0.17 1.25 0.37 2.16 0.6 1.25 0.29 2.27 0.59 3.07 0.91 0.8 0.3 1.48 0.78 2.04 1.42 0.58 0.64 0.87 1.5 0.87 2.59 0 0.93-0.26 1.77-0.77 2.52-0.5 0.75-1.26 1.35-2.28 1.8-1.03 0.45-2.27 0.67-3.75 0.67Z">
+                        <aapt:attr name="android:fillColor">
+                            <gradient
+                                android:type="linear"
+                                android:startX="15"
+                                android:startY="-5"
+                                android:endX="15"
+                                android:endY="13">
+                                <item
+                                    android:color="#FF4D55C8"
+                                    android:offset="0"/>
+                                <item
+                                    android:color="#FF8587D4"
+                                    android:offset="1"/>
+                            </gradient>
+                        </aapt:attr>
+                    </path>
+                </group>
+
+            </group>
+        </vector>
+    </aapt:attr>
+
+    <target android:name="upper_group">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="rotation"
+                    android:valueTo="-9.63"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    />
+                <objectAnimator
+                    android:startOffset="0"
+                    android:propertyName="translateX"
+                    android:valueFrom="70"
+                    android:valueTo="62"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    />
+            </set>
+        </aapt:attr>
+    </target>
+
+    <target android:name="middle_group">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="rotation"
+                    android:valueTo="2.31"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="translateX"
+                    android:valueFrom="70"
+                    android:valueTo="73"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="translateY"
+                    android:valueFrom="40"
+                    android:valueTo="36.5"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+
+    <target android:name="under_group">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="rotation"
+                    android:valueTo="11.18"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="translateX"
+                    android:valueFrom="70"
+                    android:valueTo="84"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="translateY"
+                    android:valueFrom="40"
+                    android:valueTo="35"
+                    android:duration="2000"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+
+</animated-vector>

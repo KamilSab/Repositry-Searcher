@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.RepositorySearcher" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/dark_on_primary</item>
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:windowSplashScreenBackground">@color/dark_primary</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_animated_logo</item>
+    </style>
+</resources>
